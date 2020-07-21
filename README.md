@@ -13,8 +13,6 @@ Terraform
 
 Creating Jenkins server Go to Terraform folder and run the below terraform apply .
 
-Note: Make sure you are configuring aws cli
-
 Jenkins
 -------------
 Create two build jobs java-ci,java-cd in side java-ci copy java-ci jenkins pipeline code in side java-cd copy java-cd jenkins pipeline code
