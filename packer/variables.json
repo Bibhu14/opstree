@@ -1,6 +1,6 @@
 {
   "region": "us-east-1",
   "source_ami": "ami-09d95fab7fff3776c",
-  "ami_name": "jenkins-image-ranjan"
+  "ami_name": "jenkins-image-prasad"
 }
 
